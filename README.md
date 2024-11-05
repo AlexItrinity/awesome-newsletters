@@ -441,6 +441,8 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [TechTok Today](https://techtok.today). Daily summarised and curated news in technology (as newsletter and in-website stories) picked from the most popular sources and fresh engineering blogs articles from leading tech companies.
 - [Weekly Engineering Newsletter](https://weeklyengineeringnewsletter.substack.com). Every Sunday, delivering a digest of the week's most fascinating finds in the tech world.
 - [Hacking Scale](https://newsletter.betterstack.com/). A bi-weekly newsletter about building and scaling software from engineers at Better Stack.
+- [WarmupInbox](https://WarmupInbox.com/). Warmup tool to improve deliverability by reducing your spam rate and maintaining a high reputation with your ESP.
+- [EmailListVerify](https://EmailListVerify.com/). Verify your email lists and discover email addresses.
 
 ## Leadership
 
